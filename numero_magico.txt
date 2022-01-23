@@ -1,0 +1,6 @@
+Um mágico pede para alguém da plateia pensar num número de um a cinco.
+Você escolhe (define) o numero.
+Você pedirá para o mágico escolher o número que você pensou (receber input).
+Se o valor do mágico for menor que o seu número você irá dizer para o mágico aumentar o valor do chute.
+Se o valor do mágico for maior que o seu número você irá dizer para o mágico diminuir o valor do chute.
+Se o valor do mágico for igual ao seu número você irá dizer para o mágico que ele acertou.
